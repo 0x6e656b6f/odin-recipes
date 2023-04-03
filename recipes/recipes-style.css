@@ -1,0 +1,9 @@
+.heading {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: lightgreen;
+}
+
+.img {
+  height: auto;
+  width: 500px;
+}
